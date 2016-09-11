@@ -1,0 +1,430 @@
+#EXTM3U
+
+#EXTINF:-1,RTP 1 (HQ)
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
+
+#EXTINF:-1,RTP 2 (HQ)
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
+
+#EXTINF:-1,SIC (HQ)
+http://83.78.191.43:2058/
+
+#EXTINF:-1,TVI (HQ)
+http://83.78.191.43:2079/
+
+#EXTINF:-1,SIC NOTICIAS (HQ)
+http://83.78.191.43:2060/
+
+#EXTINF:-1,RTP 3 (HQ)
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8
+
+#EXTINF:-1,TVI 24 (HQ)
+http://83.78.191.43:2081/
+
+#EXTINF:-1,CMTV (HQ)
+http://83.78.191.43:2018/
+
+#EXTINF:-1,SIC MULHER (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/20.ts
+
+#EXTINF:-1,SIC CARAS (HQ)
+http://83.78.191.43:2090/
+
+#EXTINF:-1,SIC RADICAL (HQ)
+http://83.78.191.43:2061/
+
+#EXTINF:-1,PORTO CANAL (HQ)
+http://83.78.191.43:2047/
+
+#EXTINF:-1,TV LISBOA (HQ)
+http://213.13.26.11:1935/live/tvldireto/livestrem.m3u8
+
+#EXTINF:-1,RTP MEMORIA (HQ)
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8
+
+#EXTINF:-1,RTP INTERNACIONAL (HQ)
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
+
+#EXTINF:-1,RTP AFRICA (HQ)
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+
+#EXTINF:-1,RTP ACORES (HQ)
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
+
+#EXTINF:-1,RTP MADEIRA (HQ)
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+
+#EXTINF:-1,TVI FICCAO (HQ)
+http://83.78.191.43:2080/
+
+#EXTINF:-1,TVI + (HQ) ?
+http://83.78.191.43:2079/
+
+#EXTINF:-1,TVI REALITY (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/16.ts
+
+#EXTINF:-1,TVI CAMARA EXCLUSIVA (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/17.ts
+
+#EXTINF:-1,CANAL Q (HQ)
+http://83.78.191.43:2048/
+
+#EXTINF:-1,GLOBO (HQ)
+http://31.204.153.115:8081/live/globok/playlist.m3u8
+
+#EXTINF:-1,GLOBO PREMIUM (HQ)
+http://83.78.191.43:2073/
+
+#EXTINF:-1,RECORD TV (HQ)
+http://83.78.191.43:2074/
+
+#EXTINF:-1,RECORD NEWS (HQ)
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/live.m3u8
+
+#EXTINF:-1,TV BRASIL (SQ)
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1,BAND (SQ)
+http://31.204.152.6:8081/live/bandu/playlist.m3u8
+
+#EXTINF:-1,CANCAO NOVA (HQ)
+http://83.78.191.43:2091/
+
+#EXTINF:-1,TV UNIVERSAL (HQ)
+http://xiurdtveux.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1,CINEMUNDO (HQ)
+http://83.78.191.43:2017/
+
+#EXTINF:-1,HOLLYWOOD (HQ)
+http://83.78.191.43:2035/
+
+#EXTINF:-1,AMC (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/70.ts
+
+#EXTINF:-1,SYFY (HQ)
+http://83.78.191.43:2070/
+
+#EXTINF:-1,AXN (HD)
+http://83.78.191.43:2005/
+
+#EXTINF:-1,AXN WHITE (HD)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/77.ts
+
+#EXTINF:-1,AXN BLACK (HD)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/78.ts
+
+#EXTINF:-1,FOX (HD)
+http://83.78.191.43:2029/
+
+#EXTINF:-1,FOX MOVIES (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/69.ts
+
+#EXTINF:-1,FOX LIFE (HD)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/72.ts
+
+#EXTINF:-1,FOX CRIME (HQ)
+http://83.78.191.43:2041/
+
+#EXTINF:-1,FOX COMEDY (HQ)
+http://83.78.191.43:2033/
+
+#EXTINF:-1,TV CINE 1 (HQ)
+http://83.78.191.43:2075/
+
+#EXTINF:-1,TV CINE 2 (HQ)
+http://83.78.191.43:2076/
+
+#EXTINF:-1,TV CINE 3 (HQ)
+http://83.78.191.43:2077/
+
+#EXTINF:-1,TV CINE 4 (HQ)
+http://83.78.191.43:2078/
+
+#EXTINF:-1,TV SERIES (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/66.ts
+
+#EXTINF:-1,A BOLA TV (HQ)
+http://83.78.191.43:2085/
+
+#EXTINF:-1,REAL MADRID TV (HQ)
+http://83.78.191.43:2050/
+
+#EXTINF:-1,MOTORS TV (HQ)
+rtmp://178.162.199.138/live playpath=motorstvx?id=83213&pk=95d5ae22bf48c475204ce55296ddf2d472bf5c22522cbcfaf59af6fadc87d285 swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=
+
+#EXTINF:-1,EUROSPORT 1 (HQ)
+http://83.78.191.43:2027/
+
+#EXTINF:-1,EUROSPORT 1 (HD)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/52.ts
+
+#EXTINF:-1,EUROSPORT 2 (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/54.ts
+
+#EXTINF:-1,EUROSPORT 2 (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/54.ts
+
+#EXTINF:-1,EUROSPORT 2 XTRA (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/53.ts
+
+#EXTINF:-1,PFC (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/49.ts
+
+#EXTINF:-1,BTV 1 (HQ)
+http://83.78.191.43:2008/
+
+#EXTINF:-1,BTV 1 (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/47.ts
+
+#EXTINF:-1,SPORTING TV (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/55.ts
+
+#EXTINF:-1,SPORTING TV (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/55.ts
+
+#EXTINF:-1,SPORT TV + (HQ)http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/31.ts
+
+#EXTINF:-1,SPORT TV + (HD)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/36.ts
+
+#EXTINF:-1,SPORT TV 1 (HQ)
+http://bit.ly/2bbG8aG
+
+#EXTINF:-1,SPORT TV 1 (HQ)
+http://83.78.191.43:2065/
+
+#EXTINF:-1,SPORT TV 1 (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/31.ts
+
+#EXTINF:-1,SPORT TV 1 (HD)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/36.ts
+
+#EXTINF:-1,SPORT TV 1 (HD)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/40.ts
+
+#EXTINF:-1,SPORT TV 1 (HD) 
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/147.ts
+
+#EXTINF:-1,SPORT TV 2 (HQ)
+http://bit.ly/2bdaBGN
+
+#EXTINF:-1,SPORT TV 2 (HQ)
+http://83.78.191.43:2066/
+
+#EXTINF:-1,SPORT.TV 2 (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/32.ts
+
+#EXTINF:-1,SPORT TV 2 (HD)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/37.ts
+
+#EXTINF:-1,SPORT TV 2 (HD)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/41.ts
+
+#EXTINF:-1,SPORT TV 3 (HQ)
+http://bit.ly/2b40t0C
+
+#EXTINF:-1,SPORT TV 3 (HQ)
+http://83.78.191.43:2067/
+
+#EXTINF:-1,SPORT.TV 3 (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/33.ts
+
+#EXTINF:-1,SPORT TV 3 (HD)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/38.ts
+
+#EXTINF:-1,SPORT TV 3 (HD)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/42.ts
+
+#EXTINF:-1,SPORT TV 4 (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/34.ts
+
+#EXTINF:-1,SPORT TV 4 (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/39.ts
+
+#EXTINF:-1,SPORT TV 4 (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/43.ts
+
+#EXTINF:-1,SPORT TV 5 (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/35.ts
+
+#EXTINF:-1,SPORT TV 5 (HD)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/44.ts
+
+#EXTINF:-1,KOMBAT SPORT (HQ)
+http://83.78.191.43:2025/
+
+#EXTINF:-1,FUEL TV (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/58.ts
+
+#EXTINF:-1,SIC K (HQ)
+http://83.78.191.43:2059/
+
+#EXTINF:-1,CANAL PANDA (HQ)
+http://83.78.191.43:2044/
+
+#EXTINF:-1,CANAL PANDA BIGGS (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/96.ts
+
+#EXTINF:-1,DISNEY CHANNEL (HQ)
+http://83.78.191.43:2024/
+
+#EXTINF:-1,DISNEY CHANNEL JUNIOR (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/99.ts
+
+#EXTINF:-1,CARTOON NETWORK (HQ)
+http://83.78.191.43:2014/
+
+#EXTINF:-1,JIMJAM (HQ)
+http://83.78.191.43:2037/
+
+#EXTINF:-1,NICKELODEON (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/95.ts
+
+#EXTINF:-1,BABY TV (HQ)
+http://83.78.191.43:2006/
+
+#EXTINF:-1,ETV (HQ)
+http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
+
+#EXTINF:-1,EURONEWS (HQ)
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_pt.m3u8
+
+#EXTINF:-1,CNN (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/84.ts
+
+#EXTINF:-1,FOX NEWS (HQ)
+http://83.78.191.43:2030/
+
+#EXTINF:-1,HISTORIA (HQ)
+http://83.78.191.43:2012/
+
+#EXTINF:-1,DISCOVERY CHANNEL (HQ)
+http://83.78.191.43:2023/
+
+#EXTINF:-1,DISCOVERY SCIENCE (HQ)
+http://83.78.191.43:2023/
+
+#EXTINF:-1,DISCOVERY HD SHOWCASE (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/86.ts
+
+#EXTINF:-1,DISCOVERY CIVILIVATION (HQ)
+http://83.78.191.43:2023/
+
+#EXTINF:-1,DISCOVERY TURBO (HQ)
+http://83.78.191.43:2041/
+
+#EXTINF:-1, NATIONAL GEOGRAPHIC (HD)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/88.ts
+
+#EXTINF:-1,NAT GEO WILD (HQ)
+http://83.78.191.43:2041/
+
+#EXTINF:-1,ODISSEIA (HQ)
+http://83.78.191.43:2043/
+
+#EXTINF:-1,CBS REALLITY (HQ)
+http://83.78.191.43:2015/
+
+#EXTINF:-1,A&E (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/82.ts
+
+#EXTINF:-1,TLC (HQ)
+rtmp://109.200.202.124/live?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDE2IDEwOjM0OjM0IEFNJmhhc2hfdmFsdWU9VG9qa2wvRzBPZFhYQXJjSVErRk5jUT09JnZhbGlkbWludXRlcz0yMDA= playpath=ae_1 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/mestre.php token=carioca
+
+#EXTINF:-1,E (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/.ts
+
+#EXTINF:-1,TRAVEL CHANNEL (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/93.ts
+
+#EXTINF:-1,CACAVISION (HQ)
+http://83.78.191.43:2011/
+
+#EXTINF:-1,TOROS (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/113.ts
+
+#EXTINF:-1,CAÇA E PESCA (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/112.ts
+
+#EXTINF:-1,FASHION TV (HQ)
+http://78.26.128.99/index.php?channel=358&key;_ott=b6f2c565d2a42c8c389e666ee975d580
+
+#EXTINF:-1,24 KITCHEN (HD)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/115.ts
+
+#EXTINF:-1,FOOT (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/115.ts
+
+#EXTINF:-1,MTV (HQ)
+http://83.78.191.43:2040/
+
+#EXTINF:-1,MTV HITS (HQ)http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/.ts
+
+#EXTINF:-1,MTV ROCK (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/.ts
+
+#EXTINF:-1,VH1 (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/105.ts
+
+#EXTINF:-1,VH1 HITS (HQ)http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/.ts
+
+#EXTINF:-1,MCM TOP (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/.ts
+
+#EXTINF:-1,MCM POP (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/107.ts
+
+#EXTINF:-1,AFRO MUSIC (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/111.ts
+
+#EXTINF:-1,C-MUSIC (HQ)
+http://83.78.191.43:2010/
+
+#EXTINF:-1,M6 MUSIC (HQ)
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+
+#EXTINF:-1,TRACE URBAN (HQ)
+http://83.78.191.43:2071
+
+#EXTINF:-1,VIRGIN TV RADIO (HQ)
+http://fms.105.net:1935/live/virgin1/playlist.m3u8
+
+#EXTINF:-1,VEVO 1 (HQ)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+#EXTINF:-1,VEVO 1 (HQ)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
+
+#EXTINF:-1,VEVO 2 (HQ)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+
+#EXTINF:-1,VEVO 2 (HQ)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
+
+#EXTINF:-1,VEVO 3 (HQ)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+#EXTINF:-1,VEVO 3 (HQ)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8
+
+#EXTINF:-1,VENUS (HQ)
+http://83.78.191.43:2083/
+
+#EXTINF:-1,VENUS (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/119.ts
+
+#EXTINF:-1,PLAYBOY TV (HQ)
+http://83.78.191.43:2086/
+
+#EXTINF:-1,PLAYBOY TV (HQ)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/117.ts
+
+#EXTINF:-1,HOT (HD)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/118.ts
+
+#EXTINF:-1,REDLIGHT (HD)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/670.ts
+
+#EXTINF:-1,HUSTLER (HD)
+http://iptvprotuga.no-ip.biz:8000/live/kodiiptvportugal/pt/671.ts
